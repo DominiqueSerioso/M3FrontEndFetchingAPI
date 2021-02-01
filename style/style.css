@@ -1,0 +1,18 @@
+button
+{
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    width: 34%;
+    margin: 4px 20px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+   font-family: 'Courier New', Courier, monospace; 
+}
